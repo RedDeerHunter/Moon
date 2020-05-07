@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/calgary/CLionProjects/Moon/Moon.cpp
+Moon.h
+/home/calgary/CLionProjects/Moon/Moon.h
+algorithm
+-
+iostream
+-
+cmath
+-
+
+/home/calgary/CLionProjects/Moon/Moon.h
+
+/home/calgary/CLionProjects/Moon/main.cpp
+iostream
+-
+Moon.cpp
+/home/calgary/CLionProjects/Moon/Moon.cpp
+

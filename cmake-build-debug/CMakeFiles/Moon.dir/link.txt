@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Moon.dir/main.cpp.o  -o Moon 
