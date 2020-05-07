@@ -1,2 +1,2 @@
 # Moon
-Matrix library c++
+Matrix library C++
